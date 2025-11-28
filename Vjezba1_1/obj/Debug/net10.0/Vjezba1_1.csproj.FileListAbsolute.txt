@@ -1,0 +1,14 @@
+C:\Users\andre\Documents\Računalni Praktikum\Vjezbe\Vjezba1_1\bin\Debug\net10.0\Vjezba1_1.exe
+C:\Users\andre\Documents\Računalni Praktikum\Vjezbe\Vjezba1_1\bin\Debug\net10.0\Vjezba1_1.deps.json
+C:\Users\andre\Documents\Računalni Praktikum\Vjezbe\Vjezba1_1\bin\Debug\net10.0\Vjezba1_1.runtimeconfig.json
+C:\Users\andre\Documents\Računalni Praktikum\Vjezbe\Vjezba1_1\bin\Debug\net10.0\Vjezba1_1.dll
+C:\Users\andre\Documents\Računalni Praktikum\Vjezbe\Vjezba1_1\bin\Debug\net10.0\Vjezba1_1.pdb
+C:\Users\andre\Documents\Računalni Praktikum\Vjezbe\Vjezba1_1\obj\Debug\net10.0\Vjezba1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\Računalni Praktikum\Vjezbe\Vjezba1_1\obj\Debug\net10.0\Vjezba1_1.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\Računalni Praktikum\Vjezbe\Vjezba1_1\obj\Debug\net10.0\Vjezba1_1.AssemblyInfo.cs
+C:\Users\andre\Documents\Računalni Praktikum\Vjezbe\Vjezba1_1\obj\Debug\net10.0\Vjezba1_1.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Računalni Praktikum\Vjezbe\Vjezba1_1\obj\Debug\net10.0\Vjezba1_1.dll
+C:\Users\andre\Documents\Računalni Praktikum\Vjezbe\Vjezba1_1\obj\Debug\net10.0\refint\Vjezba1_1.dll
+C:\Users\andre\Documents\Računalni Praktikum\Vjezbe\Vjezba1_1\obj\Debug\net10.0\Vjezba1_1.pdb
+C:\Users\andre\Documents\Računalni Praktikum\Vjezbe\Vjezba1_1\obj\Debug\net10.0\Vjezba1_1.genruntimeconfig.cache
+C:\Users\andre\Documents\Računalni Praktikum\Vjezbe\Vjezba1_1\obj\Debug\net10.0\ref\Vjezba1_1.dll
