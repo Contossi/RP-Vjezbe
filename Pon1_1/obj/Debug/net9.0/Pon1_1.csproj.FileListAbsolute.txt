@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\RP-Vjezbe\Pon1_1\obj\Debug\net9.0\Pon1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\RP-Vjezbe\Pon1_1\obj\Debug\net9.0\Pon1_1.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\RP-Vjezbe\Pon1_1\obj\Debug\net9.0\Pon1_1.AssemblyInfo.cs
+C:\Users\PC\Documents\RP-Vjezbe\Pon1_1\obj\Debug\net9.0\Pon1_1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\RP-Vjezbe\Pon1_1\obj\Debug\net9.0\Pon1_1.sourcelink.json
+C:\Users\PC\Documents\RP-Vjezbe\Pon1_1\bin\Debug\net9.0\Pon1_1.exe
+C:\Users\PC\Documents\RP-Vjezbe\Pon1_1\bin\Debug\net9.0\Pon1_1.deps.json
+C:\Users\PC\Documents\RP-Vjezbe\Pon1_1\bin\Debug\net9.0\Pon1_1.runtimeconfig.json
+C:\Users\PC\Documents\RP-Vjezbe\Pon1_1\bin\Debug\net9.0\Pon1_1.dll
+C:\Users\PC\Documents\RP-Vjezbe\Pon1_1\bin\Debug\net9.0\Pon1_1.pdb
+C:\Users\PC\Documents\RP-Vjezbe\Pon1_1\obj\Debug\net9.0\Pon1_1.dll
+C:\Users\PC\Documents\RP-Vjezbe\Pon1_1\obj\Debug\net9.0\refint\Pon1_1.dll
+C:\Users\PC\Documents\RP-Vjezbe\Pon1_1\obj\Debug\net9.0\Pon1_1.pdb
+C:\Users\PC\Documents\RP-Vjezbe\Pon1_1\obj\Debug\net9.0\Pon1_1.genruntimeconfig.cache
+C:\Users\PC\Documents\RP-Vjezbe\Pon1_1\obj\Debug\net9.0\ref\Pon1_1.dll
