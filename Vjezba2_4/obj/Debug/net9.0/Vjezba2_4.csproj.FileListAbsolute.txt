@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\RP-Vjezbe\Vjezba2_4\bin\Debug\net9.0\Vjezba2_4.exe
+C:\Users\PC\Documents\RP-Vjezbe\Vjezba2_4\bin\Debug\net9.0\Vjezba2_4.deps.json
+C:\Users\PC\Documents\RP-Vjezbe\Vjezba2_4\bin\Debug\net9.0\Vjezba2_4.runtimeconfig.json
+C:\Users\PC\Documents\RP-Vjezbe\Vjezba2_4\bin\Debug\net9.0\Vjezba2_4.dll
+C:\Users\PC\Documents\RP-Vjezbe\Vjezba2_4\bin\Debug\net9.0\Vjezba2_4.pdb
+C:\Users\PC\Documents\RP-Vjezbe\Vjezba2_4\obj\Debug\net9.0\Vjezba2_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\RP-Vjezbe\Vjezba2_4\obj\Debug\net9.0\Vjezba2_4.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\RP-Vjezbe\Vjezba2_4\obj\Debug\net9.0\Vjezba2_4.AssemblyInfo.cs
+C:\Users\PC\Documents\RP-Vjezbe\Vjezba2_4\obj\Debug\net9.0\Vjezba2_4.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\RP-Vjezbe\Vjezba2_4\obj\Debug\net9.0\Vjezba2_4.sourcelink.json
+C:\Users\PC\Documents\RP-Vjezbe\Vjezba2_4\obj\Debug\net9.0\Vjezba2_4.dll
+C:\Users\PC\Documents\RP-Vjezbe\Vjezba2_4\obj\Debug\net9.0\refint\Vjezba2_4.dll
+C:\Users\PC\Documents\RP-Vjezbe\Vjezba2_4\obj\Debug\net9.0\Vjezba2_4.pdb
+C:\Users\PC\Documents\RP-Vjezbe\Vjezba2_4\obj\Debug\net9.0\Vjezba2_4.genruntimeconfig.cache
+C:\Users\PC\Documents\RP-Vjezbe\Vjezba2_4\obj\Debug\net9.0\ref\Vjezba2_4.dll

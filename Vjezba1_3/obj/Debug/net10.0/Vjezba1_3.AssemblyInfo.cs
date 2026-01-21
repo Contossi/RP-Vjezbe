@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vjezba1_3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3900f2fe8d89747cdf23247bb44b03b72755799")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vjezba1_3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vjezba1_3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
